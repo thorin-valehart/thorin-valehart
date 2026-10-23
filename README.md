@@ -43,6 +43,11 @@ Sometimes it's fast riffs and programming exercises. Sometimes it's slow, heavy 
 
 The music is part of the journey, not a productivity technique.
 
+- Doom metal: Slow evenings, reading, and getting absorbed in a difficult concept.
+- Death metal / Deathcore: Programming exercises and energetic problem-solving sessions.
+- Heavy and Thrash metal: Working on little projects in the workshop.
+- Progressive metal: Exploring complicated systems, odd ideas, and rabbit holes that go much deeper than expected.
+
 ## 🧭 Principles of the Craft
 
 - Stay curious.
