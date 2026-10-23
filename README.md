@@ -35,9 +35,9 @@ I believe in thoughtful engineering, simple solutions, learning at my own pace, 
 
 ## 🎸 The Soundtrack
 
-Heavy metal is a permanent fixture in the workshop.
+Metal is a permanent fixture in the workshop.
 
-Traditional heavy metal, thrash, doom, and progressive metal all have their place, depending on the day and the mood.
+Traditional heavy metal, thrash, doom, death, and progressive metal all have their place, depending on the day and the mood.
 
 Sometimes it's fast riffs and programming exercises. Sometimes it's slow, heavy music and a difficult technical problem. Sometimes it's just an album playing while I enjoy a quiet evening.
 
