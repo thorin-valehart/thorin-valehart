@@ -15,10 +15,10 @@ what the profiler says, not what the benchmark tweet says.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [`lowend`](link) | Benchmark harness — measure before you guess | TS |
-| [`bonecache`](link) | Small, dependency-free cache with explicit eviction | TS |
-| [`gravequeue`](link) | In-process job queue for small services | Node |
-| [`notes`](link) | Maintainer notes, perf TILs, postmortems | Markdown |
+| [`lowend`](https://github.com/thorin-valehart/lowend) | Benchmark harness — measure before you guess | TS |
+| [`bonecache`](https://github.com/thorin-valehart/bonecache) | Small, dependency-free cache with explicit eviction | TS |
+| [`gravequeue`](https://github.com/thorin-valehart/gravequeue) | In-process job queue for small services | Node |
+| [`notes`](https://github.com/thorin-valehart/notes) | Maintainer notes, perf TILs, postmortems | Markdown |
 
 ## Doctrine
 
