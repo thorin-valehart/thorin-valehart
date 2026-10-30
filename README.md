@@ -28,6 +28,7 @@ what the profiler says, not what the benchmark tweet says.
 4. Document the failure modes, not just the happy path.
 5. No telemetry. No exceptions.
 6. Boring where it matters.
+7. Name the execution mode. A JIT number and an AOT number are different numbers. Publishing one as the other is a lie with a table around it.
 
 ## Elsewhere
 
