@@ -2,8 +2,7 @@
 
 **Low-end optimization. No mercy for bloat.**
 
-Fullstack developer, backend-leaning. MERN + TypeScript. I care about
-what the profiler says, not what the benchmark tweet says.
+Fullstack developer, backend-leaning. Dart (primary) · AOT · isolates · shelf / Dart Frog · React/TS (secondary)
 
 - ⚙️ Focus: performance-critical server-side processing
 - 🧱 Stack: Node, TypeScript, Express, MongoDB, React
